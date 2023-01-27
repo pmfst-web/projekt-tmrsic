@@ -8,18 +8,19 @@
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Online trgovina
 
 ## Popis funkcionalnosti
-1. a
-2. b
-3. c
+1. Prijava u sustav
+2. Odabir stvari
+3. Staviti u košaricu
 
 
 ## UPUTE
 ## Opis projekta
 Potrebno je napisati kratki opis projekta.
 Opis mora sadržavati popis osnovnih funkcionalnosti koje će biti implementirane (npr. "pretraživanje recepata", "unos novih recepta", "pretraživanje recepata po sastojcima" itd...)
+Korisnici će se moći prijaviti u sustav online trgovine. Zatim mogu pretraživati određene majice, hlače i ostale odjevne predmete i staviti u košaricu ako požele kupiti. 
 
 ## Početna struktura aplikacije
 Potrebno je inicijalizirati početnu strukturu mobilne aplikacije.
