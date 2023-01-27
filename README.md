@@ -18,9 +18,8 @@ Online trgovina
 
 ## UPUTE
 ## Opis projekta
-Potrebno je napisati kratki opis projekta.
-Opis mora sadržavati popis osnovnih funkcionalnosti koje će biti implementirane (npr. "pretraživanje recepata", "unos novih recepta", "pretraživanje recepata po sastojcima" itd...)
-Korisnici će se moći prijaviti u sustav online trgovine. Zatim mogu pretraživati određene majice, hlače i ostale odjevne predmete i staviti u košaricu ako požele kupiti. 
+Korisnici će se moći prijaviti, odnosno registrirati u sustav online trgovine pomoću email adrese. Zatim mogu pretraživati određene majice, hlače i ostale odjevne predmete. Također će biti moguće filtrirati, npr. ako želite gledati samo majice. 
+Nakon toga, se odjevni predmet može staviti u košaricu i kupiti. 
 
 ## Početna struktura aplikacije
 Potrebno je inicijalizirati početnu strukturu mobilne aplikacije.
