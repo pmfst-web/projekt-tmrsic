@@ -19,7 +19,8 @@ Opis projekta
 Potrebno je napisati kratki opis projekta. Opis mora sadržavati popis osnovnih funkcionalnosti koje će biti implementirane (npr. "pretraživanje recepata", "unos novih recepta", "pretraživanje recepata po sastojcima" itd...)
 
 Početna struktura aplikacije
-Potrebno je inicijalizirati početnu strukturu mobilne aplikacije. Pod strukturom se podrazumijeva da definirate koliko različitih ekrana će sadržavati vaša aplikacija i osmislite navigaciju između tih ekrana koristeći jedan (ili više) pristupa koje smo obradili u vježbama.
+Potrebno je inicijalizirati početnu strukturu mobilne aplikacije. 
+Imam glavnu stranicu na kojoj su proizvodi, prilikom odabire jedne od otvara se prozor o detaljima ( marka i cijena)
 
 Prototip
 U ovoj fazi bi trebali imati "grubu" verziju svoje aplikacije. Ova verzija bi trebala imati implementirane osnovne funkcionalnosti koje su navedene u opisu projekta. Ne očekuje se da su implementirane SVE funkcionalnosti niti da su postojeće funkcionalnosti potpuno ispravne.
